@@ -1,0 +1,1 @@
+这是一个使用python自动化生成logisim的示例，circ文件为xml格式，使得Python自动化生成成为可能。
