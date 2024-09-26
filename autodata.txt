@@ -1,0 +1,120 @@
+    <wire from="(140,130)" to="(150,130)"/>
+    <wire from="(180,130)" to="(190,130)"/>
+    <comp lib="0" loc="(140,130)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in1"/>
+    </comp>
+    <comp lib="0" loc="(190,130)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out1"/>
+    </comp>
+    <comp lib="4" loc="(180,130)" name="Register"/>
+    <wire from="(140,180)" to="(150,180)"/>
+    <wire from="(180,180)" to="(190,180)"/>
+    <comp lib="0" loc="(140,180)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in2"/>
+    </comp>
+    <comp lib="0" loc="(190,180)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out2"/>
+    </comp>
+    <comp lib="4" loc="(180,180)" name="Register"/>
+    <wire from="(140,230)" to="(150,230)"/>
+    <wire from="(180,230)" to="(190,230)"/>
+    <comp lib="0" loc="(140,230)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in3"/>
+    </comp>
+    <comp lib="0" loc="(190,230)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out3"/>
+    </comp>
+    <comp lib="4" loc="(180,230)" name="Register"/>
+    <wire from="(140,280)" to="(150,280)"/>
+    <wire from="(180,280)" to="(190,280)"/>
+    <comp lib="0" loc="(140,280)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in4"/>
+    </comp>
+    <comp lib="0" loc="(190,280)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out4"/>
+    </comp>
+    <comp lib="4" loc="(180,280)" name="Register"/>
+    <wire from="(140,330)" to="(150,330)"/>
+    <wire from="(180,330)" to="(190,330)"/>
+    <comp lib="0" loc="(140,330)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in5"/>
+    </comp>
+    <comp lib="0" loc="(190,330)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out5"/>
+    </comp>
+    <comp lib="4" loc="(180,330)" name="Register"/>
+    <wire from="(140,380)" to="(150,380)"/>
+    <wire from="(180,380)" to="(190,380)"/>
+    <comp lib="0" loc="(140,380)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in6"/>
+    </comp>
+    <comp lib="0" loc="(190,380)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out6"/>
+    </comp>
+    <comp lib="4" loc="(180,380)" name="Register"/>
+    <wire from="(140,430)" to="(150,430)"/>
+    <wire from="(180,430)" to="(190,430)"/>
+    <comp lib="0" loc="(140,430)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in7"/>
+    </comp>
+    <comp lib="0" loc="(190,430)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out7"/>
+    </comp>
+    <comp lib="4" loc="(180,430)" name="Register"/>
+    <wire from="(140,480)" to="(150,480)"/>
+    <wire from="(180,480)" to="(190,480)"/>
+    <comp lib="0" loc="(140,480)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in8"/>
+    </comp>
+    <comp lib="0" loc="(190,480)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out8"/>
+    </comp>
+    <comp lib="4" loc="(180,480)" name="Register"/>
+    <wire from="(140,530)" to="(150,530)"/>
+    <wire from="(180,530)" to="(190,530)"/>
+    <comp lib="0" loc="(140,530)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in9"/>
+    </comp>
+    <comp lib="0" loc="(190,530)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out9"/>
+    </comp>
+    <comp lib="4" loc="(180,530)" name="Register"/>
+    <wire from="(140,580)" to="(150,580)"/>
+    <wire from="(180,580)" to="(190,580)"/>
+    <comp lib="0" loc="(140,580)" name="Tunnel">
+        <a name="facing" val="east"/>
+        <a name="width" val="8"/>
+        <a name="label" val="in10"/>
+    </comp>
+    <comp lib="0" loc="(190,580)" name="Tunnel">
+        <a name="width" val="8"/>
+        <a name="label" val="out10"/>
+    </comp>
+    <comp lib="4" loc="(180,580)" name="Register"/>
